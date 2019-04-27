@@ -1,6 +1,6 @@
 +++
 title = "Finding common ground in meta-analysis wars on violent video games"
-date = 2019-04-27T08:16:51-04:00
+date = 2019-04-26T08:16:51-04:00
 draft = false
 
 # Tags and categories
