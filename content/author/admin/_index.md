@@ -84,4 +84,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Maya Mathur is a postdoctoral fellow at the Harvard University Department of Epidemiology.
+I am a postdoctoral fellow at the Harvard University Department of Epidemiology.
