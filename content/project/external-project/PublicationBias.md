@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "R package NRejections"
+title = "R package PublicationBias"
 
 # Date this page was created.
-date = 1993-04-27T00:00:00
+date = 1999-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Computes metrics of outcome-wide evidence strength for studies testing multiple correlated outcomes."
+summary = "Conducts sensitivity analysis for publication bias in meta-analyses."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["R", "Statistics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://cran.r-project.org/web/packages/NRejections/index.html"
+external_link = "https://cran.r-project.org/web/packages/PublicationBias/index.html"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

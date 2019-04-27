@@ -84,4 +84,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a postdoctoral fellow at the Harvard University Department of Epidemiology.
+I am a postdoctoral fellow at the Harvard University Department of Epidemiology, conducting both original statistical research and applied research. 

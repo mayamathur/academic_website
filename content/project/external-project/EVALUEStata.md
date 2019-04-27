@@ -3,7 +3,7 @@
 title = "Stata module EVALUE"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 1996-04-27T00:00:00
 
 # Project summary to display on homepage.
 summary = "Calculates the E-value, a measure of sensitivity to unmeasured confounding."
@@ -13,7 +13,7 @@ summary = "Calculates the E-value, a measure of sensitivity to unmeasured confou
 tags = ["Stata", "Statistics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://cran.r-project.org/web/packages/SimTimeVar/index.html"
+external_link = "https://ideas.repec.org/c/boc/bocode/s458592.html"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
