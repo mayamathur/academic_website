@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David B. Reichling on Maya B. Mathur</title>
+    <link>https://mayamathur.github.io/authors/david-b.-reichling/</link>
+    <description>Recent content in David B. Reichling on Maya B. Mathur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2019 08:16:51 -0400</lastBuildDate>
+    
+	<atom:link href="https://mayamathur.github.io/authors/david-b.-reichling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open-source software for mouse-tracking in Qualtrics to measure category competition</title>
+      <link>https://mayamathur.github.io/publication/uv3m/</link>
+      <pubDate>Sat, 27 Apr 2019 08:16:51 -0400</pubDate>
+      
+      <guid>https://mayamathur.github.io/publication/uv3m/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
