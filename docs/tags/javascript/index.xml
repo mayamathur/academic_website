@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Maya B. Mathur</title>
+    <link>https://mayamathur.github.io/tags/javascript/</link>
+    <description>Recent content in Javascript on Maya B. Mathur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://mayamathur.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qualtrics Mousetracker</title>
+      <link>https://mayamathur.github.io/project/external-project/qualtricsmousetracker/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://mayamathur.github.io/project/external-project/qualtricsmousetracker/</guid>
+      <description>Software in R, Javascript, and Qualtrics to design and analyze psychology experiments that use fine-grained mouse-tracking measures of perceptual category competition.</description>
+    </item>
+    
+  </channel>
+</rss>

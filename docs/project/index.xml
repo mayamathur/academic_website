@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Maya B. Mathur</title>
+    <link>https://mayamathur.github.io/project/</link>
+    <description>Recent content in Projects on Maya B. Mathur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://mayamathur.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qualtrics Mousetracker</title>
+      <link>https://mayamathur.github.io/project/external-project/qualtricsmousetracker/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://mayamathur.github.io/project/external-project/qualtricsmousetracker/</guid>
+      <description>Software in R, Javascript, and Qualtrics to design and analyze psychology experiments that use fine-grained mouse-tracking measures of perceptual category competition.</description>
+    </item>
+    
+    <item>
+      <title>R package PublicationBias</title>
+      <link>https://mayamathur.github.io/project/external-project/publicationbias/</link>
+      <pubDate>Tue, 27 Apr 1999 00:00:00 -0400</pubDate>
+      
+      <guid>https://mayamathur.github.io/project/external-project/publicationbias/</guid>
+      <description>Conducts sensitivity analysis for publication bias in meta-analyses.</description>
+    </item>
+    
+    <item>
+      <title>R package MetaUtility</title>
+      <link>https://mayamathur.github.io/project/external-project/metautility/</link>
+      <pubDate>Sun, 27 Apr 1997 00:00:00 -0400</pubDate>
+      
+      <guid>https://mayamathur.github.io/project/external-project/metautility/</guid>
+      <description>Contains functions to estimate the proportion of effects stronger than a threshold of scientific importance, to make effect size conversions, and to compute and format estimates and inference.</description>
+    </item>
+    
+    <item>
+      <title>R package EValue</title>
+      <link>https://mayamathur.github.io/project/external-project/evalue/</link>
+      <pubDate>Sat, 27 Apr 1996 00:00:00 -0400</pubDate>
+      
+      <guid>https://mayamathur.github.io/project/external-project/evalue/</guid>
+      <description>Conducts sensitivity analysis for unmeasured confounding for observational studies and meta-analysis, and conducts analogous sensitivity analyses for selection bias.</description>
+    </item>
+    
+    <item>
+      <title>Stata module EVALUE</title>
+      <link>https://mayamathur.github.io/project/external-project/evaluestata/</link>
+      <pubDate>Sat, 27 Apr 1996 00:00:00 -0400</pubDate>
+      
+      <guid>https://mayamathur.github.io/project/external-project/evaluestata/</guid>
+      <description>Calculates the E-value, a measure of sensitivity to unmeasured confounding.</description>
+    </item>
+    
+    <item>
+      <title>E-value calculator website</title>
+      <link>https://mayamathur.github.io/project/external-project/evaluewebsite/</link>
+      <pubDate>Thu, 27 Apr 1995 00:00:00 -0400</pubDate>
+      
+      <guid>https://mayamathur.github.io/project/external-project/evaluewebsite/</guid>
+      <description>Calculates the E-value, a measure of sensitivity to unmeasured confounding.</description>
+    </item>
+    
+    <item>
+      <title>R package NRejections</title>
+      <link>https://mayamathur.github.io/project/external-project/nrejections/</link>
+      <pubDate>Tue, 27 Apr 1993 00:00:00 -0400</pubDate>
+      
+      <guid>https://mayamathur.github.io/project/external-project/nrejections/</guid>
+      <description>Computes metrics of outcome-wide evidence strength for studies testing multiple correlated outcomes.</description>
+    </item>
+    
+    <item>
+      <title>R package Replicate</title>
+      <link>https://mayamathur.github.io/project/external-project/replicate/</link>
+      <pubDate>Sat, 27 Apr 1991 00:00:00 -0400</pubDate>
+      
+      <guid>https://mayamathur.github.io/project/external-project/replicate/</guid>
+      <description>Conducts statistical analyses for multisite replication projects.</description>
+    </item>
+    
+    <item>
+      <title>R package SimTimeVar</title>
+      <link>https://mayamathur.github.io/project/external-project/simtimevar/</link>
+      <pubDate>Fri, 27 Apr 1990 00:00:00 -0400</pubDate>
+      
+      <guid>https://mayamathur.github.io/project/external-project/simtimevar/</guid>
+      <description>Simulates a longitudinal dataset with time-varying covariates with user-specified correlation structure.</description>
+    </item>
+    
+  </channel>
+</rss>
