@@ -91,4 +91,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a postdoctoral fellow at the Harvard University Department of Epidemiology, conducting both original statistical research and applied research. 
+I am a postdoctoral fellow at the Harvard University Department of Epidemiology, conducting both original statistical research and applied research. I work under the supervision of <a href="https://www.hsph.harvard.edu/tyler-vanderweele/">Tyler VanderWeele</a>.  
