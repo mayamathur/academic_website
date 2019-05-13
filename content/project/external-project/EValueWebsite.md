@@ -13,7 +13,7 @@ summary = "Calculates the E-value, a measure of sensitivity to unmeasured confou
 tags = ["Statistics", "GUI"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://evalue.hmdc.harvard.edu/"
+external_link = "http://www.evalue-calculator.com"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
