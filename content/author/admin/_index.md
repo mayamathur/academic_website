@@ -38,17 +38,17 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD Biostatistics"
   institution = "Harvard University"
-  year = 2018
+  year = "2015-2018"
 
 [[education.courses]]
   course = "MS Statistics"
   institution = "Stanford University"
-  year = 2013
+  year = "2009-2013"
 
 [[education.courses]]
   course = "BA Psychology"
   institution = "Stanford University"
-  year = 2013
+  year = "2009-2013"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -91,4 +91,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a postdoctoral fellow at the Harvard University Department of Epidemiology, conducting both original statistical research and applied research. I work under the supervision of <a href="https://www.hsph.harvard.edu/tyler-vanderweele/">Tyler VanderWeele</a>.  
+I am a postdoctoral fellow at the Harvard University Department of Epidemiology, conducting both original statistical research and applied research. I work under the supervision of <a href="https://www.hsph.harvard.edu/tyler-vanderweele/">Tyler VanderWeele</a>. I will be joining Stanford University's <a href="https://med.stanford.edu/qsu.html">Quantitative Sciences Unit</a> as an Assistant Professor in Fall 2019. My publication list is available on <a href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ&hl=en">Google Scholar</a>, and repositories with data, code, and materials for my research are available on the <a href="https://osf.io/e9tg8/">Open Science Framework</a>.
