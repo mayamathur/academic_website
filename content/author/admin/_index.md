@@ -43,7 +43,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "MS Statistics"
   institution = "Stanford University"
-  year = "2009-2013"
+  year = "2011-2013"
 
 [[education.courses]]
   course = "BA Psychology"
