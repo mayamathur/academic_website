@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Postdoctoral fellow"
+role = "Instructor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Harvard University", url = "" } ]
+organizations = [ { name = "Stanford University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -91,4 +91,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a postdoctoral fellow at the Harvard University Department of Epidemiology, conducting both original statistical research and applied research. I work under the supervision of <a href="https://www.hsph.harvard.edu/tyler-vanderweele/">Tyler VanderWeele</a>. I will be joining Stanford University's <a href="https://med.stanford.edu/qsu.html">Quantitative Sciences Unit</a> as an Assistant Professor in Fall 2019. My publication list is available on <a href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ&hl=en">Google Scholar</a>, and repositories with data, code, and materials for my research are available on the <a href="https://osf.io/e9tg8/">Open Science Framework</a>.
+I am an Instructor at Stanford University's <a href="https://med.stanford.edu/qsu.html">Quantitative Sciences Unit</a>, conducting both original statistical research and applied research. My publication list is available on <a href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ&hl=en">Google Scholar</a>, and repositories with data, code, and materials for my research are available on the <a href="https://osf.io/e9tg8/">Open Science Framework</a>.
