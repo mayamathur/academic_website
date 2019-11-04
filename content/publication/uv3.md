@@ -21,10 +21,10 @@ authors = ["Maya B. Mathur", "David B. Reichling", "Francesca Lunardini", "Alice
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Under review"
+publication = "Computers in Human Behavior"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -36,7 +36,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_preprint = "https://osf.io/89sf4/"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0747563219303164"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
