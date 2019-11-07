@@ -1,6 +1,6 @@
 +++
-title = "New metrics for multiple testing with correlated outcomes"
-date = 2018-04-27T08:16:51-04:00
+title = 'A simple, interpretable conversion from Pearson’s correlation to Cohen’s d for continuous exposures'
+date = 2019-11-04T08:16:51-04:00
 draft = false
 
 # Tags and categories
@@ -21,11 +21,11 @@ authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Under review"
-publication_short = ""
+publication = "Epidemiology"
+publication_short = "Epidemiology"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -37,7 +37,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_preprint = "https://osf.io/k9g3b/"
+url_pdf = "https://journals.lww.com/epidem/Citation/publishahead/A_Simple,_Interpretable_Conversion_from_Pearson_s.98471.aspx"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
