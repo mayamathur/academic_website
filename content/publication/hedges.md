@@ -37,7 +37,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_pdf = "https://www.ncbi.nlm.nih.gov/pubmed/31580141"
+url_pdf = "publication/hedges.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

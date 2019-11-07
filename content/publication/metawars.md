@@ -37,7 +37,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_pdf = "https://journals.sagepub.com/doi/abs/10.1177/1745691619850104?rfr_dat=cr_pub%3Dpubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&journalCode=ppsa"
+url_pdf = "publication/metawars.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

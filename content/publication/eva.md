@@ -37,7 +37,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_pdf = "https://journals.lww.com/epidem/Citation/publishahead/A_Simple,_Interpretable_Conversion_from_Pearson_s.98471.aspx"
+url_pdf = "publication/eva.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

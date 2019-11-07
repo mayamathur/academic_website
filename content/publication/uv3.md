@@ -36,7 +36,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0747563219303164"
+url_pdf = "publication/uv3.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
