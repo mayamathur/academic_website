@@ -6,7 +6,7 @@
     <description>Recent content in GUI on Maya B. Mathur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 1995 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 1995 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://mayamathur.github.io/tags/gui/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>E-value calculator website</title>
       <link>https://mayamathur.github.io/project/external-project/evaluewebsite/</link>
-      <pubDate>Thu, 27 Apr 1995 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 27 Apr 1995 00:00:00 -0700</pubDate>
       
       <guid>https://mayamathur.github.io/project/external-project/evaluewebsite/</guid>
       <description>Calculates the E-value, a measure of sensitivity to unmeasured confounding.</description>
