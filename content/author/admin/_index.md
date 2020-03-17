@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Instructor"
+role = "Assistant Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -91,4 +91,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am an Instructor at Stanford University's <a href="https://med.stanford.edu/qsu.html">Quantitative Sciences Unit</a>, conducting both original statistical research and applied research. My publication list is available on <a href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ&hl=en">Google Scholar</a>, and repositories with data, code, and materials for my research are available on the <a href="https://osf.io/e9tg8/">Open Science Framework</a>.
+I am an Assistant Professor at Stanford University's <a href="https://med.stanford.edu/qsu.html">Quantitative Sciences Unit</a>, conducting both original statistical research and applied research. My publication list is available on <a href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ&hl=en">Google Scholar</a>, and repositories with data, code, and materials for my research are available on the <a href="https://osf.io/e9tg8/">Open Science Framework</a>.
