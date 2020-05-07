@@ -1,6 +1,6 @@
 +++
 title = "New statistical metrics for multisite replication projects"
-date = 2018-04-21T08:16:51-04:00
+date = 2020-04-25T08:16:51-04:00
 draft = false
 
 # Tags and categories
@@ -24,7 +24,7 @@ authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Under review"
+publication = "<i>Journal of the Royal Statistical Society: Series A</i>. In press"
 publication_short = ""
 
 # Abstract and optional shortened version.

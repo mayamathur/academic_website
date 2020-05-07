@@ -1,6 +1,6 @@
 +++
 title = 'A simple, interpretable conversion from Pearson’s correlation to Cohen’s d for continuous exposures'
-date = 2019-11-04T08:16:51-04:00
+date = 2020-02-01T08:16:51-04:00
 draft = false
 
 # Tags and categories
@@ -24,8 +24,8 @@ authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Epidemiology"
-publication_short = "Epidemiology"
+publication = "<i>Epidemiology</i>"
+publication_short = "<i>Epidemiology</i>"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -37,7 +37,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_pdf = "publication/eva.pdf"
+url_pdf = "https://journals.lww.com/epidem/Fulltext/2020/03000/A_Simple,_Interpretable_Conversion_from_Pearson_s.24.aspx"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

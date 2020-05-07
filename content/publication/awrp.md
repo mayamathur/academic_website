@@ -1,6 +1,6 @@
 +++
 title = 'Reducing meat consumption by appealing to animal welfare: Protocol for a meta-analysis and theoretical review'
-date = 2019-12-27T08:16:51-04:00
+date = 2020-03-02T08:16:51-04:00
 draft = false
 
 # Tags and categories
@@ -24,8 +24,8 @@ authors = ["Maya B. Mathur", "Thomas N. Robinson", "David B. Reichling", "Christ
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Under review"
-publication_short = ""
+publication = "<i>Systematic Reviews</i>"
+publication_short = "<i>Systematic Reviews</i>"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -37,7 +37,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_preprint = "https://osf.io/n6uka/"
+url_pdf = "https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-1264-5"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

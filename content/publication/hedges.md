@@ -24,8 +24,8 @@ authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Psychological Methods"
-publication_short = "Psychological Methods"
+publication = "<i>Psychological Methods</i>"
+publication_short = "<i>Psychological Methods</i>"
 
 # Abstract and optional shortened version.
 abstract = "Psychological scientists are now trying to replicate published research from scratch to confirm the findings. In an increasingly widespread replication study design, each of several collaborating sites (such as universities) independently tries to replicate an original study, and the results are synthesized across sites. Hedges and Schauer (2019) proposed statistical analyses for these replication projects; their analyses focus on assessing the extent to which results differ across the replication sites, by testing for heterogeneity among a set of replication studies, while excluding the original study. We agree with their premises regarding the limitations of existing analysis methods and regarding the importance of accounting for heterogeneity among the replications. This objective may be interesting in its own right. However, we argue that by focusing only on whether the replication studies have similar effect sizes to one another, these analyses are not particularly appropriate for assessing whether the replications in fact support the scientific effect under investigation or for assessing the power of multisite replication projects. We reanalyze Hedges and Schauer’s (2019) example dataset using alternative metrics of replication success that directly address these objectives. We reach a more optimistic conclusion regarding replication success than they did, illustrating that the alternative metrics can lead to quite different conclusions from those of Hedges and Schauer (2019)."
