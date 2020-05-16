@@ -23,12 +23,20 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+  
+   [[content.filter_button]]
+     name = "All"
+     tag = "*"
+
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
     category = ""
     publication_type = ""
     exclude_featured = false
+
   
 [design]
   # Toggle between the various page layout types.

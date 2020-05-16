@@ -1,15 +1,15 @@
 +++
-title = 'Reducing meat consumption by appealing to animal welfare: Protocol for a meta-analysis and theoretical review'
-date = 2020-03-02T08:16:51-04:00
+title = 'Errors in the statistical justification for the "credibility ceiling" remain uncorrected'
+date = 2020-05-16T08:16:51-04:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Empirical"]
+tags = []
 categories = []
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Maya B. Mathur", "Thomas N. Robinson", "David B. Reichling", "Christopher Gardner", "Janice Nadler", "Paul A. Bain", "Jacob Peacock"]
+authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
 
 
 # Publication type.
@@ -24,8 +24,8 @@ authors = ["Maya B. Mathur", "Thomas N. Robinson", "David B. Reichling", "Christ
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "<i>Systematic Reviews</i>"
-publication_short = "<i>Systematic Reviews</i>"
+publication = "<i>Journal of Clinical Epidemiology</i>. In press"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -37,7 +37,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_pdf = "https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-1264-5"
+url_preprint = "https://osf.io/xmcdb/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
