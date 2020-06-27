@@ -37,7 +37,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_pdf = "https://journals.lww.com/epidem/Abstract/2020/05000/Robust_Metrics_and_Sensitivity_Analyses_for.7.aspx"
+url_pdf = "https://osf.io/r2s78"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
