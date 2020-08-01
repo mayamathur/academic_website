@@ -1,6 +1,6 @@
 +++
 title = "Sensitivity analysis for publication bias in meta-analyses"
-date = 2019-03-27T08:16:51-04:00
+date = 2020-07-29T08:16:51-04:00
 draft = false
 
 # Tags and categories
@@ -24,7 +24,7 @@ authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Under review"
+publication = "<i>Journal of the Royal Statistical Society: Series C.</i> In press"
 publication_short = ""
 
 # Abstract and optional shortened version.
