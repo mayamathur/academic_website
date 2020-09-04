@@ -23,9 +23,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Evidence synthesis",
   "Meta-analysis",
-  "Reproducibility",
+  "Reproducibility and replication",
+  "Statistical methods for epidemiology",
+  "Causal inference",
   "Experimental psychology",
   "Behavior and health"
  ]
@@ -91,4 +92,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am an Assistant Professor at Stanford University's <a href="https://med.stanford.edu/qsu.html">Quantitative Sciences Unit</a>, conducting both original statistical research and applied research. My publication list is available on <a href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ&hl=en">Google Scholar</a>, and repositories with data, code, and materials for my research are available on the <a href="https://osf.io/e9tg8/">Open Science Framework</a>.
+I am an Assistant Professor at Stanford University's <a href="https://med.stanford.edu/qsu.html">Quantitative Sciences Unit</a> and the Associate Director of the Stanford Data Science Institute's <a href="https://datascience.stanford.edu/cores">Center for Open and Reproducible Science</a> (DSI-CORES).
+
+I do both original statistical research and applied research. My publication list is available on <a href="https://scholar.google.com/citations?user=vmuNN1sAAAAJ&hl=en">Google Scholar</a>, and repositories with data, code, and materials for my research are available on the <a href="https://osf.io/e9tg8/">Open Science Framework</a>.
