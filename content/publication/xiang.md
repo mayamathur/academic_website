@@ -1,6 +1,6 @@
 +++
-title = 'Errors in the statistical justification for the "credibility ceiling" remain uncorrected'
-date = 2020-05-16T08:16:51-04:00
+title = 'Assessing the impact of unmeasured confounders for credible and reliable real-world evidence'
+date = 2020-11-10T08:16:51-04:00
 draft = false
 
 # Tags and categories
@@ -9,7 +9,7 @@ tags = []
 categories = []
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
+authors = ["Xiang Zhang", "James Stamey", "Maya B. Mathur"]
 
 
 # Publication type.
@@ -21,10 +21,10 @@ authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "<i>Journal of Clinical Epidemiology</i>"
+publication = "<i>Pharmacoepidemiology and Drug Safety</i>"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -37,7 +37,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_preprint = "https://osf.io/xmcdb/"
+url_preprint = "https://osf.io/fe4gs/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

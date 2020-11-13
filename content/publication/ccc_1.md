@@ -24,7 +24,7 @@ authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "<i>Journal of Clinical Epidemiology</i>. In press"
+publication = "<i>Journal of Clinical Epidemiology</i>"
 publication_short = ""
 
 # Abstract and optional shortened version.

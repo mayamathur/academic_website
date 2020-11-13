@@ -1,6 +1,6 @@
 +++
-title = 'Estimating publication bias in meta-analyses: A meta-meta-analysis across disciplines and journal tiers'
-date = 2019-12-23T08:16:51-04:00
+title = 'Estimating publication bias in meta-analyses of peer-reviewed studies: A meta-meta-analysis across disciplines and journal tiers'
+date = 2020-11-12T08:16:51-04:00
 draft = false
 
 # Tags and categories
@@ -21,10 +21,10 @@ authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Under review"
+publication = "<i>Research Synthesis Methods</i>"
 publication_short = ""
 
 # Abstract and optional shortened version.

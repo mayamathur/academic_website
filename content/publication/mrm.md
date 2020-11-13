@@ -1,5 +1,5 @@
 +++
-title = 'Meta-regression estimates of the percentage of meaningfully strong effects'
+title = 'Meta-regression methods to characterize evidence strength using meaningful-effect percentages conditional on study characteristics'
 date = 2020-07-08T08:16:51-04:00
 draft = false
 

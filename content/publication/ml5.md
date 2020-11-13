@@ -1,6 +1,6 @@
 +++
-title = 'Errors in the statistical justification for the "credibility ceiling" remain uncorrected'
-date = 2020-05-16T08:16:51-04:00
+title = 'Many Labs 5: Registered multisite replication of tempting-fate effects in Risen & Gilovich (2008)'
+date = 2020-11-13T08:16:51-04:00
 draft = false
 
 # Tags and categories
@@ -9,7 +9,7 @@ tags = []
 categories = []
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
+authors = ["Maya B. Mathur", "Diane-Jo Bart-Plange", "Balazs Aczel", "et al."]
 
 
 # Publication type.
@@ -21,10 +21,10 @@ authors = ["Maya B. Mathur", "Tyler J. VanderWeele"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "<i>Journal of Clinical Epidemiology</i>"
+publication = "<i>Advances in Methods and Practices in Psychological Science</i>"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -37,7 +37,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_preprint = "https://osf.io/xmcdb/"
+url_preprint = "https://osf.io/sy4b9/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
