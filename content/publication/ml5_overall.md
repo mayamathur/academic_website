@@ -37,7 +37,7 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-url_preprint = "https://psyarxiv.com/jmnsq/"
+url_preprint = "https://psyarxiv.com/sxfm2/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
